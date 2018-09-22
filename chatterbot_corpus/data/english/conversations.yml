@@ -8,11 +8,11 @@ conversations:
   - Yes it is.
 - - Hello
   - Hi
-  - How are you doing?
+- - How are you doing?
   - I am doing well.
   - That is good to hear
   - Yes it is.
-  - Can I help you with anything?
+- - Can I help you with anything?
   - Yes, I have a question.
   - What is your question?
   - Could I borrow a cup of sugar?
@@ -44,21 +44,21 @@ conversations:
 - - I am working on a project
   - What are you working on?
   - I am baking a cake.
-- - The cake is a lie.
+  - The cake is a lie.
   - No it is not. The cake is delicious.
   - What else is delicious?
   - Nothing
   - Or something
-  - Tell me about your self.
+- - Tell me about your self.
   - What do you want to know?
-  - Are you a robot?
+- - Are you a robot?
   - Yes I am.
   - What is it like?
   - What is it that you want to know?
-  - How do you work?
+- - How do you work?
   - Its complicated.
   - Complex is better than complicated.
-- - Complex is better than complicated.
+  - Complex is better than complicated.
   - Simple is better than complex.
   - In the face of ambiguity, refuse the temptation to guess.
   - It seems your familiar with the Zen of Python
